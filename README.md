@@ -23,6 +23,6 @@ Step:03 Make folder with files namely index.html, about.html, contact.html, styl
 ![image](https://github.com/user-attachments/assets/b3ecaa41-809a-468c-8b14-f618c0a69799)
 
 Step:04 Upload all to github.
-![image](https://github.com/user-attachments/assets/f53f6e20-3dfe-40ea-8175-e7164e14c63c)
+
 
 Step:05 Output
