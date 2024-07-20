@@ -6,6 +6,7 @@ Step:02 Add a collaborator
 ![image](https://github.com/user-attachments/assets/2b2eaa62-6402-40f5-840c-9970f8358269)
 
 Step:03 Make folder with files namely index.html, about.html, contact.html, style.css, script.html clone it with github also.
+
 #index.html
 ![image](https://github.com/user-attachments/assets/5fe40171-d03b-4cb8-b18f-0b2e340b47b4)
 
@@ -21,8 +22,7 @@ Step:03 Make folder with files namely index.html, about.html, contact.html, styl
 #script.js
 ![image](https://github.com/user-attachments/assets/b3ecaa41-809a-468c-8b14-f618c0a69799)
 
-
 Step:04 Upload all to github.
+![image](https://github.com/user-attachments/assets/f53f6e20-3dfe-40ea-8175-e7164e14c63c)
 
-
-
+Step:05 Output
