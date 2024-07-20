@@ -23,6 +23,25 @@ Step:03 Make folder with files namely index.html, about.html, contact.html, styl
 ![image](https://github.com/user-attachments/assets/b3ecaa41-809a-468c-8b14-f618c0a69799)
 
 Step:04 Upload all to github.
-
+![image](https://github.com/user-attachments/assets/d5b63439-8a75-4ead-a0b5-979c496e3138)
 
 Step:05 Output
+
+#Home Page
+
+#Theme Colorful-Style Expanded
+![image](https://github.com/user-attachments/assets/65dc45f5-ed15-45cf-b81e-08f1f966cd90)
+
+#Theme Light-Style Compact
+![image](https://github.com/user-attachments/assets/55c0b2df-3fb9-4d02-8efe-a1526f5243fb)
+
+#Theme Dark-Style Grid
+![image](https://github.com/user-attachments/assets/e882e6c5-4d38-4bd4-935b-766f9c572ddd)
+
+#About Page
+![image](https://github.com/user-attachments/assets/b40880a6-3cc5-439b-a479-3f9832647a5a)
+
+#Contact Page
+![image](https://github.com/user-attachments/assets/f92de5f7-f767-449e-b6a7-33adf9d5f9ea)
+
+
